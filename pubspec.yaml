@@ -1,0 +1,55 @@
+name: weatherworld
+description: A new Flutter application.
+
+
+version: 1.0.0+50
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^0.1.2
+  geolocator: ^5.3.1
+  http: ^0.12.1
+  flutter_spinkit: ^4.1.2+1
+  admob_flutter: ^0.3.4
+  firebase_admob: ^0.9.3+4
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+  assets:
+    - assets/
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+
+
+
+
+
+  fonts:
+  - family: Spartan MB
+    fonts:
+    - asset: fonts/SpartanMB-Black.otf
+      weight: 900
+  - family: Baloo2
+    fonts:
+    - asset: fonts/Baloo2-Regular.ttf
+
+

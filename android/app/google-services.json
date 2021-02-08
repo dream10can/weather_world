@@ -1,0 +1,57 @@
+{
+  "project_info": {
+    "project_number": "1096386406755",
+    "firebase_url": "https://weather-live-a0c25.firebaseio.com",
+    "project_id": "weather-live-a0c25",
+    "storage_bucket": "weather-live-a0c25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096386406755:android:f8e0d282c5248df5778b56",
+        "android_client_info": {
+          "package_name": "dream10can.weatherworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096386406755-pvid88972qajn6565j4ie1i3rl4jldeu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dream10can.weatherworld",
+            "certificate_hash": "14aa2d29d9d5a8d685c5ecf7344eef51516254c8"
+          }
+        },
+        {
+          "client_id": "1096386406755-djj8u0kp14i1ffmf88rkpdqrkd9lvk0b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dream10can.weatherworld",
+            "certificate_hash": "0f68f178641a17ca0e35cb82096ca28df6f42403"
+          }
+        },
+        {
+          "client_id": "1096386406755-74ppt603l5dq80e63iiluv2vohfa6fr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZOKMuRrqSPS_H0STng7GyzjWKkDidPXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096386406755-74ppt603l5dq80e63iiluv2vohfa6fr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8970826678290556~6360014396"
+    }
+  ],
+  "configuration_version": "1"
+}
